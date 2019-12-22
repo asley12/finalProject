@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\610e42d606c6d8aedfa70c819a33015b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6e83a4f8b998663fac7c0361941c7e99\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\bba60da7db803f98f68c3c47687993c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a8a16667a47ff081801a2bffd3bd7882\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fc82985b1ebd05b3b453ca8b9ae123ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\73f06e21387afe0d541e86fb8335d2e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\91a802c4dc42f40631f46b2311362913\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\718a548ecc1b66f9d9f15778be59e236\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9199860bd487f35f8b78328d8803eea7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8adab485ec0f3681c0d130f0f6b8c48d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\02b5c0610d5b7b9c46ebd66113367756\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c74de6c266a73e3320842494c7beefea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9cb014705482fe28464515607ee71789\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\221c9ff6274cf28e84cd0831c3eea87c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fff406b03af788ca1e61fdc8f4f379ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\16f93af0ca01dbb5c52483240e34630d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f7c87a6c1ea643807ae90fca60fbc0d0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6ce87e05a0e630d24ac2f85adebc0a9f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\876cae7c9db716d68f8aa03c0988b289\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e1641c150f286479a4b593d7bdcf8c54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b26df945fafbf14e0059d55e7bbcf358\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e2efe9f4c8c9339032e762badb05e031\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6155c0b7c39a2ed8cf8a289fde3d2ce1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fb403bb35b2f900a1ebcac610d0b41ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\873520ec1c73a3c4ed3c156edc48f53a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\def96804247555dec19bd4baf8a25ef5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9a900623c7b4983ed606b3802bcb5068\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6e83a4f8b998663fac7c0361941c7e99\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6e83a4f8b998663fac7c0361941c7e99\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\16f93af0ca01dbb5c52483240e34630d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\16f93af0ca01dbb5c52483240e34630d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f7c87a6c1ea643807ae90fca60fbc0d0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f7c87a6c1ea643807ae90fca60fbc0d0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\16f93af0ca01dbb5c52483240e34630d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:9:9-39
+	android:hardwareAccelerated
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:10:9-44
+	android:roundIcon
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:11:9-54
+	android:largeHeap
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:12:9-33
+	android:icon
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:14:9-65
+activity#com.example.myapplication.select_printerActivity
+ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:15:9-69
+	android:name
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:15:19-57
+activity#com.example.myapplication.printCloudActivity
+ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:16:9-56
+	android:name
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:16:19-53
+activity#com.example.myapplication.MainActivity
+ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\610e42d606c6d8aedfa70c819a33015b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\610e42d606c6d8aedfa70c819a33015b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6e83a4f8b998663fac7c0361941c7e99\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6e83a4f8b998663fac7c0361941c7e99\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\bba60da7db803f98f68c3c47687993c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\bba60da7db803f98f68c3c47687993c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a8a16667a47ff081801a2bffd3bd7882\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a8a16667a47ff081801a2bffd3bd7882\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fc82985b1ebd05b3b453ca8b9ae123ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fc82985b1ebd05b3b453ca8b9ae123ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\73f06e21387afe0d541e86fb8335d2e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\73f06e21387afe0d541e86fb8335d2e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\91a802c4dc42f40631f46b2311362913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\91a802c4dc42f40631f46b2311362913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\718a548ecc1b66f9d9f15778be59e236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\718a548ecc1b66f9d9f15778be59e236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9199860bd487f35f8b78328d8803eea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9199860bd487f35f8b78328d8803eea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8adab485ec0f3681c0d130f0f6b8c48d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8adab485ec0f3681c0d130f0f6b8c48d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\02b5c0610d5b7b9c46ebd66113367756\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\02b5c0610d5b7b9c46ebd66113367756\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c74de6c266a73e3320842494c7beefea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c74de6c266a73e3320842494c7beefea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9cb014705482fe28464515607ee71789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9cb014705482fe28464515607ee71789\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\221c9ff6274cf28e84cd0831c3eea87c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\221c9ff6274cf28e84cd0831c3eea87c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fff406b03af788ca1e61fdc8f4f379ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fff406b03af788ca1e61fdc8f4f379ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\16f93af0ca01dbb5c52483240e34630d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\16f93af0ca01dbb5c52483240e34630d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f7c87a6c1ea643807ae90fca60fbc0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f7c87a6c1ea643807ae90fca60fbc0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6ce87e05a0e630d24ac2f85adebc0a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6ce87e05a0e630d24ac2f85adebc0a9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\876cae7c9db716d68f8aa03c0988b289\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\876cae7c9db716d68f8aa03c0988b289\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e1641c150f286479a4b593d7bdcf8c54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e1641c150f286479a4b593d7bdcf8c54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b26df945fafbf14e0059d55e7bbcf358\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b26df945fafbf14e0059d55e7bbcf358\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e2efe9f4c8c9339032e762badb05e031\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e2efe9f4c8c9339032e762badb05e031\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6155c0b7c39a2ed8cf8a289fde3d2ce1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6155c0b7c39a2ed8cf8a289fde3d2ce1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fb403bb35b2f900a1ebcac610d0b41ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fb403bb35b2f900a1ebcac610d0b41ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\873520ec1c73a3c4ed3c156edc48f53a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\873520ec1c73a3c4ed3c156edc48f53a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\def96804247555dec19bd4baf8a25ef5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\def96804247555dec19bd4baf8a25ef5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9a900623c7b4983ed606b3802bcb5068\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yelsa\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9a900623c7b4983ed606b3802bcb5068\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yelsa\Downloads\MyApplication2\app\src\main\AndroidManifest.xml
